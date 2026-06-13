@@ -354,6 +354,7 @@ a {
     padding-left: 20px;
     color: #dfeee3;
     line-height: 1.6;
+    display: block;
 }
 
 @media (max-width: 820px) {
